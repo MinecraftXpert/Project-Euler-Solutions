@@ -13,7 +13,7 @@
 // When to stop adding in the fibonacci sequence
 const number = 4000000;
 
-// Sum of all numbers
+// Sum of all even numbers
 let sum = 0;
 
 // Variables for our fibonacci sequence
