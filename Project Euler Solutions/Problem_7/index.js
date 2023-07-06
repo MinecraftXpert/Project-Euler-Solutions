@@ -1,5 +1,7 @@
 /*
-  So... this was kinda easy. I my code from the second problem and applied it here with some changes
+  Finished July 7th 2023
+
+  So... this was kinda easy. I took some of my code from the second problem and applied it here with some changes
 
   Btw, this took like 3 seconds to run cause I'm a noob like that :)
 */
