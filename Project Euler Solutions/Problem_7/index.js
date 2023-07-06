@@ -1,11 +1,13 @@
 /*
+  So... this was kinda easy. I my code from the second problem and applied it here with some changes
 
+  Btw, this took like 3 seconds to run cause I'm a noob like that :)
 */
 
-// This was code from my second problem
+// I overshot the number and then I just did some code to get the exact
 const numForPrime = 120000;
 
-let lastPrime = 0;
+// All this code is from another problem I did
 
 // Stores them all in an array so I can divide the large number by each prime number
 const primeNumList = [];
@@ -30,6 +32,8 @@ for (let i = 0; i < numForPrime; i++) {
     primeNumList.push(i);
   }
 
+
+  // I added this line to find the exact prime number and end the program so it didn't run everything :sunglasses:
   if (primeNumList[10000]) {
     console.log(`The prime is ${primeNumList[10000]}`);
     break;
