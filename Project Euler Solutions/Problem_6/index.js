@@ -1,4 +1,5 @@
 /*
+    Finished July 20, 2023
 
     First I gotta find the sum of the squares of the first 100 natural numbers...
 
